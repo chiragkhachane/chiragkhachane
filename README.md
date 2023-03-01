@@ -8,19 +8,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragkhachane&label=Profile%20views&color=0e75b6&style=flat" alt="chiragkhachane" /> </p>
 
-- 🔭 I’m currently working on **chiragkhachane**
-
 - 🌱 I’m currently learning **AWS | Power BI | Tableau**
-
 - 🤝 I’m looking for help with **Data Analytics & Product Management**
-
 - 👨‍💻 All of my projects are available at [https://chiragkhachane.github.io/portfolio/](https://chiragkhachane.github.io/portfolio/)
-
 - 💬 Ask me about **AWS | Data Analysis**
-
 - 📫 How to reach me **chiragkhachane.ck71@gmail.com**
 
-- 📄 Know about my experiences [chiragkhachane.epizy.com/resume](chiragkhachane.epizy.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
