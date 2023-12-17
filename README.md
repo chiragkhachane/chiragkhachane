@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Chirag Khachane</h1>
 <h3 align="left">A passionate Software Developer, Photographer and Trekker</h3>
 
-<a href="https://drive.google.com/file/d/1R8vc2vBYSvzkgcoG5dg6iyfcXS3gYp4z/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1A7tF40roHENy__FQADO4LA1wt5P1cfO_/view">
 <img src=https://img.shields.io/badge/Resume-Chirag%20Khachane-brightgreen style="margin-bottom: 5px;" />
 </a>
 
